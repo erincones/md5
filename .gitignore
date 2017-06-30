@@ -1,0 +1,6 @@
+##
+# Excluye archivos producto de la compilación
+#
+
+*.o
+md5sum
